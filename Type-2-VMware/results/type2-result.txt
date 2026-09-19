@@ -1,0 +1,20 @@
+Type-2 Hypervisor: VMware Workstation
+
+VM Configuration:
+CPU: 2 vCPU
+RAM: 2 GB
+Disk: 20 GB
+Network: NAT
+Guest OS: Ubuntu 24.04
+
+Sysbench CPU Benchmark:
+Sysbench Version: 1.0.20
+Threads: 1
+Prime Limit: 20000
+Events per Second: 1050.64
+Total Events: 10509
+Execution Time: 9.9792 seconds
+Minimum Latency: 0.69 ms
+Average Latency: 0.95 ms
+Maximum Latency: 479.43 ms
+95th Percentile: 1.47 ms
